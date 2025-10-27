@@ -1,2 +1,2 @@
-# 1
-my file
+# my first repository
+my portfolio
